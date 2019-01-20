@@ -1,4 +1,4 @@
-# Campbell314.github.io
+# Campbell314.github.i
 Repository for CS161
 
 Introduction
