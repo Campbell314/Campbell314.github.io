@@ -8,4 +8,4 @@ https://docs.google.com/document/d/1RvS5W__6wQNxA8g8g-H-o_MiEfR3CTP_IgL4V8tUHlc/
 
 Week 2 Homework
 
-...In progress
+https://docs.google.com/document/d/1uV2nQftki8PrvyhUwHg53MEgZkcp6CkFNx4L3DaDX7c/edit?usp=sharing
