@@ -1,10 +1,11 @@
 # Campbell314.github.io
 Repository for CS161
 
-What does this do?
-Do I have to update the index to see this? -No
+Introduction
+https://docs.google.com/document/d/1ZUMsYri3B15yEr6Z52_yqc1gNKG3J8wW3dmU5bZIO5k/edit?usp=sharing
 
-Will this be on a new line?
-But this will not be on a new line?
+Week 1 Homework
+https://docs.google.com/document/d/1RvS5W__6wQNxA8g8g-H-o_MiEfR3CTP_IgL4V8tUHlc/edit?usp=sharing
 
-https://github.com/Campbell314/Campbell314.github.io/blob/master/Photo%201.jpg
+Week 2 Homework
+...In progress
