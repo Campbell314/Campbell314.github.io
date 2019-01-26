@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+        <title>Sample for Class</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+        <h1>Sample</h1>
+
+        <a href="https://goo.gl/TQjFdf">BlueJ Chapter One</a>
+</body>
+
+</html>
