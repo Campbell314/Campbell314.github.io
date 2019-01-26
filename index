@@ -3,13 +3,12 @@
 
 <head>
         <title>Sample for Class</title>
-        <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
 <body>
         <h1>Sample</h1>
 
-        <a href="https://goo.gl/TQjFdf">BlueJ Chapter One</a>
+        <a href="https://docs.google.com/document/d/1ZUMsYri3B15yEr6Z52_yqc1gNKG3J8wW3dmU5bZIO5k/edit?usp=sharing">Introduction</a>
 </body>
 
 </html>
